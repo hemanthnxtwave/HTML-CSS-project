@@ -1,0 +1,125 @@
+.bg-container {
+    background-image: url("https://images.unsplash.com/photo-1547393027-a632f1004ad6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHRvdXJpc218ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=60");
+    background-size: cover;
+    height: 100vh;
+    padding: 40px;
+}
+
+.card {
+    text-align: center;
+    background-color: white;
+    padding: 15px;
+    border-radius: 60px;
+
+}
+
+.main-heading {
+    color: blue;
+    font-family: Monoton;
+    font-size: 40px;
+    text-decoration: underline;
+
+}
+
+.paragraph {
+    color: black;
+    font-family: Caveat;
+    font-size: 30px;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.button {
+    color: white;
+    font-family: Roboto;
+    background-color: purple;
+    font-size: 20px;
+    font-weight: 700;
+    border-width: 0px;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.fav-places-bg-container {
+    background-image: url("https://images.unsplash.com/photo-1606744666360-2f22c8b4a45b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80");
+    background-size: cover;
+    height: 100vh;
+}
+
+.fav-places-heading {
+    font-size: 26px;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    font-family: Monoton;
+    text-decoration: underline;
+}
+
+.fav-places-card {
+    background-color: white;
+    border-radius: 15px;
+    padding: 18px;
+    margin: 10px;
+}
+
+.fav-places-card-heading {
+    font-size: 23px;
+    color: orange;
+    font-weight: bold;
+    font-family: roboto;
+}
+
+.fav-places-card-para {
+    font-size: 12px;
+    font-family: roboto;
+    width: 250px;
+    padding: 2px;
+}
+
+.fav-places-card-image {
+    height: 115px;
+    width: 90px;
+    border-radius: 10px;
+    padding: 3px;
+}
+
+.detailed-view-bg-container {
+    background-image: url("https://images.unsplash.com/photo-1598751337485-0d57b0c50b83?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1229&q=80");
+    background-size: cover;
+    height: 100vh;
+}
+
+.detailed-view-main-heading {
+    color: #03b1fc;
+    font-family: Playfair display sc;
+    padding: 12px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.card-container {
+    background-color: white;
+    margin: 32px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.card-container-main-heading {
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: bold;
+    margin: 13px;
+    padding: 5px;
+}
+
+.card-para {
+    font-size: 10px;
+    font-family: Roboto;
+    margin: 13px;
+    padding: 8px;
+}
+
+.back-button {
+    background-color: lightblue;
+    margin: 10px;
+}
